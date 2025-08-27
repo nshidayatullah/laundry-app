@@ -16,6 +16,7 @@
         "vite": "^7.0.4"
     },
     "dependencies": {
-        "preline": "^3.2.3"
+        "preline": "^3.2.3",
+        "vanilla-calendar-pro": "^3.0.5"
     }
 }
